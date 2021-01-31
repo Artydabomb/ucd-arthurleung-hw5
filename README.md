@@ -9,4 +9,4 @@ Installation/Access: Internet access is required this webpage. The URL is attach
 
 [Password Generator] https://artydabomb.github.io/ucd-arthurleung-hw5/
 
-<img src="./Planner.png" alt="Image of Planner">
+<img src="Planner.png" alt="Image of Planner">
